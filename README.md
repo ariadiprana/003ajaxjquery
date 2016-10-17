@@ -1,4 +1,4 @@
-# :fire: 002 ORM People Skill :fire:
+# :fire: 003 JavaScript Ajax and jQuery :fire:
 
 ## Description
 This repository is built to fulfill the task from Hacktiv 8 coding bootcamp in phase 2.
